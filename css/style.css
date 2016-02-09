@@ -2,3 +2,36 @@
 	margin: 0px;
 	padding: 0px;
 }
+
+body{
+	background: #f9f9f9;
+}
+
+.mainDiv{
+		background: #ffffff;
+		margin: 0 auto;
+		width: 1060px;
+		height: 950px;
+		border: solid 1px #cecece;
+		box-shadow: 0 0 10px grey;
+}
+
+.headerDiv{
+	margin-left: 46px;
+	margin-top: 49px;
+	margin-bottom: 40px;
+}
+
+.menu{
+	background: #4f4e4e;
+	width: 969px;
+	height: 42px;
+	margin-left:46px;
+}
+
+li{
+	display: inline-block;
+	font-size: 14px;
+	font-family: 'Open Sans', sans-serif;
+	color: #ffffff;
+}
